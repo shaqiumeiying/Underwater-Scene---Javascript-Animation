@@ -1,9 +1,3 @@
-CPSC 314 -- September 2023
-
-Name & student number:
-Xinyi Dou
-84855964
-
 External resources used:
 
     References images:

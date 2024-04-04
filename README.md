@@ -16,7 +16,7 @@
 
 # Implemented features and keybindings:
 
-1.When press C key, jellyfish animation will change.
-2.When press B key, bubbles will come out/ disappear.
+- When press C key, jellyfish animation will change.
+- When press B key, bubbles will come out/ disappear.
 
 

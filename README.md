@@ -1,4 +1,4 @@
-### External resources used:
+# External resources used:
 
 ## References images
     https://www.visitsealife.com/orlando/media/acmne2p2/jellyfish_sea-life.jpg
@@ -14,7 +14,7 @@
     https://stackoverflow.com/questions/12425014/create-a-concave-halfsphere-with-three-js
 
 
-### Implemented features and keybindings:
+# Implemented features and keybindings:
 
 1.When press C key, jellyfish animation will change.
 2.When press B key, bubbles will come out/ disappear.

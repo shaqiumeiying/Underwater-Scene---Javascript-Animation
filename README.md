@@ -1,3 +1,8 @@
+ # Implemented features and keybindings:
+
+- When press `C` key, jellyfish animation will change.
+- When press `B` key, bubbles will come out/ disappear.
+  
 # External resources used:
 
 ## References images
@@ -14,9 +19,6 @@
     https://stackoverflow.com/questions/12425014/create-a-concave-halfsphere-with-three-js
 
 
-# Implemented features and keybindings:
 
-- When press `C` key, jellyfish animation will change.
-- When press `B` key, bubbles will come out/ disappear.
 
 
